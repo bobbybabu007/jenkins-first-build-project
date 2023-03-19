@@ -4,7 +4,7 @@
     <groupId>com.bobsquad</groupId>
     <artifactId>javaapp</artifactId>
     <packaging>war</packaging>
-    <version>v2</version>
+    <version>1.0.0</version>
     <name>BobSquad Java Webapp</name>
     <url>http://maven.apache.org</url>
     <properties>
